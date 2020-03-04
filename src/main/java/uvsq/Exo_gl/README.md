@@ -2,12 +2,13 @@
 
 1. Cette classe respecte-t-elle SRP ?
 
-Non cette classe ne respecte pas SRP
+Non elle ne respecte pas SRP
 
  Pourquoi ?
 
 Parce qu'elle a plusieurs responsabilité qui sont:
--c a l c u l S a l a i r e
+
+-c a l c u l S a l a i r e : calcule de salaire
 -a f f i c h eCo o r d o n n e e s 
 
 

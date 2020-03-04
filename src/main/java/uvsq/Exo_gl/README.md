@@ -9,7 +9,7 @@ Non elle ne respecte pas SRP
 Parce qu'elle a plusieurs responsabilité qui sont:
 
 -c a l c u l S a l a i r e : calcule de salaire
--a f f i c h eCo o r d o n n e e s 
+-a f f i c h eCo o r d o n n e e s : affichage de coordonnees  
 
 
 2. Que se passe-t-il si la méthode de calcul du salaire change ?
